@@ -1,0 +1,11 @@
+#ifndef MAX_BLINK_DURATION
+#define MAX_BLINK_DURATION 2000
+#endif
+
+#ifndef BLINK_SPEED_STEPS
+#define BLINK_SPEED_STEPS 10
+#endif
+
+#ifndef BUTTON_CLICK_DELAY
+#define BUTTON_CLICK_DELAY 100
+#endif
